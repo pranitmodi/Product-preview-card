@@ -115,3 +115,8 @@ body
     text-align: center;
     margin-bottom: 0;
 }
+
+@media (max-width: 400px)
+{
+    
+}
